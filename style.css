@@ -1,0 +1,41 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box{
+   
+   
+    padding: auto;
+    margin: 15px auto;
+    width: 400px;
+    
+    
+}
+
+.card{
+    border: 1px solid grey;
+    padding: 12px;
+    margin: 12px auto;
+    text-align: center;
+    width:400px;
+    border-radius: 16px;
+
+}
+
+h2{
+    color: gray;
+    
+}
+
+.link{
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+}
+p{
+    font-size: larger;
+    font-weight: bold;
+}
